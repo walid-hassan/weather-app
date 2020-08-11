@@ -53,6 +53,7 @@ h3{
     border-radius: 5px;
     padding-left: 5px;
     height: 30px;
+    width: 75%;
 }
 .city-input button {
     padding: 3px 6px;
