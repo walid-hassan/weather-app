@@ -17,7 +17,7 @@ body{
     color: rgb(34, 34, 34);
     background: #fff;
     width: 350px;
-    height: 285px;
+    min-height: 270px;
     padding-bottom: 20px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px #02020278;
@@ -29,6 +29,11 @@ h1{
     color: rgb(28, 65, 133);
 }
 h2{
+    text-transform: capitalize;
+    color: rgb(28, 65, 133);
+    font-size: 30px;
+}
+h3{
     font-size: 20px;
     text-transform: capitalize;
     color: rgb(28, 65, 133);
